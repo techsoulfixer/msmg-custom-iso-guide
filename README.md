@@ -14,7 +14,7 @@ Step-by-step guide to create lightweight, customized Windows ISO using MSMG Tool
          the ISO downloads, grab a coffee or have a snack ;)
          Also please check the box for incorporating updates on the UUP dump website.
    
-   	![UUP Dump](images/downloading-iso-from-Uup-Dump.png)
+   	![UUP Dump](images/Uup-dump.png)
 
    🔴 NOTE: If you choose Win 11 or Win 10 latest ISO, some limitations will be there in debloating/removing components
            of windows, like Edge in 11 or even in 10, you wouldn't be able to take it out because if you do, that will
@@ -41,7 +41,7 @@ Step-by-step guide to create lightweight, customized Windows ISO using MSMG Tool
 
 1) Press 1 to select 'Sources'
 
-![1)](images/MSMG-Toolkit-Homepage.jpg)
+![1)](images/MSMG.png)
 
 2) Press 3 to select 'Extract source from DVD ISO image'
 
