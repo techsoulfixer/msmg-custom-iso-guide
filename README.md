@@ -13,17 +13,18 @@ Step-by-step guide to create lightweight, customized Windows ISO using MSMG Tool
    Note: Download Took nearly 40-50 mins, on my internet speed of 100 Mbps, so meanwhile
          the ISO downloads, grab a coffee or have a snack ;)
          Also please check the box for incorporating updates on the UUP dump website.
-        ![Uup Dump](images/downloading iso from Uup Dump.jpg)
+   
+   	![UUP Dump](images/downloading-iso-from-Uup-Dump.png)
 
    🔴 NOTE: If you choose Win 11 or Win 10 latest ISO, some limitations will be there in debloating/removing components
            of windows, like Edge in 11 or even in 10, you wouldn't be able to take it out because if you do, that will
            break your system/windows, so need to keep that in mind. 
 
-2) Download MSMG Toolkit and extract it.
+3) Download MSMG Toolkit and extract it.
 
-3) Once the ISO downloads, move it to the ISO folder of the MSMG toolkit folder. 
+4) Once the ISO downloads, move it to the ISO folder of the MSMG toolkit folder. 
 
-4) Launch The MSMG Toolkit by clicking on Start batch file.(before launching it, kindly disable your defender/antivirus so that 
+5) Launch The MSMG Toolkit by clicking on Start batch file.(before launching it, kindly disable your defender/antivirus so that 
                             it doesn't interrupt or slow down the process)
   
    **Note**: The process of downloading, modifying ISO will depend upon your internet speed and your system's config.
@@ -38,8 +39,10 @@ Step-by-step guide to create lightweight, customized Windows ISO using MSMG Tool
 
 2️⃣ MSMG TOOLKIT:
 
-1) Press 1 to select 'Source'
-![MSMG Home Page](images/MSMG Toolkit Homepage.jpg)
+1) Press 1 to select 'Sources'
+
+![1)](images/MSMG-Toolkit-Homepage.jpg)
+
 2) Press 3 to select 'Extract source from DVD ISO image'
 
 3) Enter the ISO file name. (if the ISO file name is random i.e very long due to MS naming, just rename it first then enter
@@ -56,9 +59,12 @@ Step-by-step guide to create lightweight, customized Windows ISO using MSMG Tool
 6) Now here are a lot of options
    O1) Internet
         Here we are having two options, IE and Edge 
-        Let's remove both
-      ![O1](images/O1.png)
-	 **Note**: Edge gets reinstalled during OOBE, if connected to the Internet
+
+     Let's remove both
+
+     ![O1](images/O1.png)
+
+   **Note**: Edge gets reinstalled during OOBE, if connected to the Internet
    
    O2) Multimedia
        	Here 13 Options, remove the ones which you don't need.
@@ -122,13 +128,13 @@ Step-by-step guide to create lightweight, customized Windows ISO using MSMG Tool
 	      Get Help
 	      Feedback Hub
 
-8) After This, go back and select 'start Removing Windows Components'
+7) After This, go back and select 'start Removing Windows Components'
     This will take time, so grab a coffee or have a snack ;)
        Note: Press Enter if it looks stuck
 
-9) Go back to main menu, select apply, and select apply changes to source image
+8) Go back to main menu, select apply, and select apply changes to source image
 
-10) Go back to Main menu, choose Target, Make DVD ISO image.
+9) Go back to Main menu, choose Target, Make DVD ISO image.
 
 10)Check the new made ISO inside the ISO Folder
 
